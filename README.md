@@ -4,9 +4,9 @@
 
 ## About
 
-[<img src="https://idao.world/wp-content/uploads/2019/10/idao-main-logo.png" height=150x>](https://idao.world/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Yandex_Logo_2021.png" height=150x>](https://yandex.ru/)
-[<img src="https://www.hse.ru/data/2020/11/16/1367274044/HSE_University_blue.jpg" height=150x>](https://www.hse.ru/en/)
+[<img src="https://idao.world/wp-content/uploads/2019/10/idao-main-logo.png" height=120x>](https://idao.world/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Yandex_Logo.svg/640px-Yandex_Logo.svg.png" height=120x>](https://yandex.ru/)
+[<img src="https://static.tildacdn.com/tild6166-3135-4030-b138-346334323631/-24.png" height=120x>](https://www.hse.ru/en/)
 
 
 [**REGISTER NOW**](https://forms.gle/FxQKCBRXubzCieJ99)
