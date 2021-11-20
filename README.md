@@ -37,3 +37,7 @@ The event is open to all undergraduate and postgraduate students. Participation 
 **Notice!** Time is indicated in the Moscow timezone (GMT+3).
 
 The boot camp is prepared together with [HSE University’s Machine Learning and Data-Intensive Systems master’s programme](https://www.hse.ru/en/ma/mlds/). This online master's programme enables students to gain practical experience in solving machine learning problems and enhance their skills in developing data-intensive systems. The programme is aimed at students who want to delve into machine learning, gain a deep understanding of ML algorithm theory, and acquire practical experience solving data analysis problems.
+
+[<img src="https://idao.world/wp-content/uploads/2021/11/vk.png" height=80x>](https://vk.com/public173225079)
+[<img src="https://idao.world/wp-content/uploads/2021/11/fb.png" height=80x>](https://www.facebook.com/IntDataAnalysisOlympiad)
+[<img src="https://idao.world/wp-content/uploads/2021/11/tg.png" height=80x>](https://t.me/IDAOworld)
